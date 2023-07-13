@@ -60,13 +60,13 @@ nav .button {
 	@media #{$desktop} {
 		display: flex;
 	}
-	margin: 90px -15px 0 -15px;
+	margin: 60px -15px 0 -15px;
 	padding: 0;
 	list-style: none;
 
 	li {
 		box-sizing: border-box;
-		margin: 70px 0px;
+		margin: 50px 0px;
 		width: 100%;
 		border: 1px solid #dfdfdf;
 		border-radius: 3px;
